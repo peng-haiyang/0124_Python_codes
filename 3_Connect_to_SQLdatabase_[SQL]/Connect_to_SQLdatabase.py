@@ -1,3 +1,7 @@
+print ("************" * 1)
+print ("Connect to SQL database")
+print ("************\n" * 1)
+
 import sqlite3
 
 sqlite_file = 'C:\sqlite\company.db' ## the database file

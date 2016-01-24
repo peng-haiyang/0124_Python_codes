@@ -1,5 +1,5 @@
 print ("************" * 1)
-print ("Draw A US flag")
+print ("Bestsellers")
 print ("************\n" * 1)
 
 import math

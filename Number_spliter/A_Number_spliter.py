@@ -1,5 +1,5 @@
 print ("************" * 1)
-print ("Number Split")
+print ("Number Spliter")
 print ("************\n" * 1)
 
 from functools import reduce
